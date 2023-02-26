@@ -1,0 +1,80 @@
+body{
+    background-color: #FEFBE9;
+}
+
+
+.navbar {
+    
+    width: 100%;
+    
+}
+
+.navbar div ul {
+    
+    float: left;
+}
+
+.navbar div ul li {
+    
+    float: left;
+    list-style: none;
+    margin-right: 10px;
+  
+}
+
+.navbar div ul li a {
+    
+    padding: 3px 3px;
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.navbar div ul li a:hover {
+    color: rgb(206, 188, 28);
+}
+
+img {
+    
+    color: white;
+    width: 1cm;
+}
+
+.name {
+    
+    font-size: 35px;
+    font-weight: 600;
+    font-family: Cambria;
+    color: #183A1D;
+}
+
+.img {
+    margin-top: 5px;
+}
+
+.navbar div {
+    
+    float: left;
+}
+
+.two {
+    margin-top: 7px;
+    margin-left: 80px;
+}
+
+.two ul li {
+    
+    margin-left: 65px;
+}
+
+.three {
+    margin-top: 10px;
+    margin-left: 160px;
+}
+
+.three ul li img {
+    border-radius: 20%;
+    margin-right: 7px;
+    width: 30px;
+}
